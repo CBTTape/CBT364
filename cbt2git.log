@@ -1,0 +1,15 @@
+2023-08-06 03:39:54.797514 - Initialized conversion of CBT364
+2023-08-06 03:39:54.879035 - Received CBT.V505.FILE364.PDS from FILE364.XMI 
+2023-08-06 03:39:54.881290 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE364.PDS, moved to PDS/$$$#DATE
+2023-08-06 03:39:54.882236 - Found $$DOC.txt (text/plain) in CBT.V505.FILE364.PDS, moved to PDS/$$DOC
+2023-08-06 03:39:54.883244 - Found $$LINK.txt (text/plain) in CBT.V505.FILE364.PDS, moved to PDS/$$LINK
+2023-08-06 03:39:54.884334 - Found @FILE364.txt (text/plain) in CBT.V505.FILE364.PDS, moved to PDS/@FILE364
+2023-08-06 03:39:54.885277 - Found CCSS.txt (text/plain) in CBT.V505.FILE364.PDS, moved to PDS/CCSS
+2023-08-06 03:39:54.886228 - Found CCSSLINK.jcl (text/plain) in CBT.V505.FILE364.PDS, moved to PDS/CCSSLINK
+2023-08-06 03:39:54.887131 - Found CCSSTEST.jcl (text/plain) in CBT.V505.FILE364.PDS, moved to PDS/CCSSTEST
+2023-08-06 03:39:54.888036 - Found DOC.txt (text/plain) in CBT.V505.FILE364.PDS, moved to PDS/DOC
+2023-08-06 03:39:54.889025 - Found IEFSSNXX.txt (text/plain) in CBT.V505.FILE364.PDS, moved to PDS/IEFSSNXX
+2023-08-06 03:39:54.896460 - Found LOADMODS.xmi (application/xmit) in CBT.V505.FILE364.PDS
+2023-08-06 03:39:54.905230   - Received RECFM=U data, stored XMIT file as CBT364/LOADMODS.xmi
+2023-08-06 03:39:54.906221 - Found MTSS.txt (text/plain) in CBT.V505.FILE364.PDS, moved to PDS/MTSS
+2023-08-06 03:39:54.907193 - Found MTSSA00.txt (text/plain) in CBT.V505.FILE364.PDS, moved to PDS/MTSSA00
