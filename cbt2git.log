@@ -1,18 +1,18 @@
-2025-04-15 01:51:08.231602 - Received CBT.V508.FILE364.PDS from FILE364.XMI 
-2025-04-15 01:51:08.232732 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE364.PDS, moved to PDS/$$$#DATE
-2025-04-15 01:51:08.233049 - Found $$DOC.txt (text/plain) in CBT.V508.FILE364.PDS, moved to PDS/$$DOC
-2025-04-15 01:51:08.233216 - Found $$LINK.txt (text/plain) in CBT.V508.FILE364.PDS, moved to PDS/$$LINK
-2025-04-15 01:51:08.233451 - Found @FILE364.txt (text/plain) in CBT.V508.FILE364.PDS, moved to PDS/@FILE364
-2025-04-15 01:51:08.233951 - Found CCSS.txt (text/plain) in CBT.V508.FILE364.PDS, moved to PDS/CCSS
-2025-04-15 01:51:08.234266 - Found CCSSLINK.jcl (text/plain) in CBT.V508.FILE364.PDS, moved to PDS/CCSSLINK
-2025-04-15 01:51:08.234576 - Found CCSSTEST.jcl (text/plain) in CBT.V508.FILE364.PDS, moved to PDS/CCSSTEST
-2025-04-15 01:51:08.234887 - Found DOC.txt (text/plain) in CBT.V508.FILE364.PDS, moved to PDS/DOC
-2025-04-15 01:51:08.235171 - Found IEFSSNXX.txt (text/plain) in CBT.V508.FILE364.PDS, moved to PDS/IEFSSNXX
-2025-04-15 01:51:08.235491 - Found LOADMODS.xmi (application/xmit) in CBT.V508.FILE364.PDS, moved to PDS/LOADMODS.xmi
-2025-04-15 01:51:08.243371 - Received @TSSY59.CCSS.LIB from LOADMODS.xmi 
-2025-04-15 01:51:08.243977 - Found CCSS.bin (application/octet-stream) in @TSSY59.CCSS.LIB, moved to LOADMODS/CCSS
-2025-04-15 01:51:08.244123 - Found alias CCSSINIT to MTSSA00 in @TSSY59.CCSS.LIB, moved to PDS/CCSSINIT
-2025-04-15 01:51:08.244303 - Found MTSS.bin (application/octet-stream) in @TSSY59.CCSS.LIB, moved to LOADMODS/MTSS
-2025-04-15 01:51:08.244464 - Found MTSSA00.bin (application/octet-stream) in @TSSY59.CCSS.LIB, moved to LOADMODS/MTSSA00
-2025-04-15 01:51:08.244979 - Found MTSS.txt (text/plain) in CBT.V508.FILE364.PDS, moved to PDS/MTSS
-2025-04-15 01:51:08.245181 - Found MTSSA00.txt (text/plain) in CBT.V508.FILE364.PDS, moved to PDS/MTSSA00
+2025-04-15 20:40:15.624387 - Received CBT.V508.FILE364.PDS from FILE364.XMI 
+2025-04-15 20:40:15.626057 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE364.PDS, moved to PDS/$$$#DATE
+2025-04-15 20:40:15.626409 - Found $$DOC.txt (text/plain) in CBT.V508.FILE364.PDS, moved to PDS/$$DOC
+2025-04-15 20:40:15.626590 - Found $$LINK.txt (text/plain) in CBT.V508.FILE364.PDS, moved to PDS/$$LINK
+2025-04-15 20:40:15.626648 - Found @FILE364.txt (text/plain) in CBT.V508.FILE364.PDS, moved to PDS/@FILE364
+2025-04-15 20:40:15.627353 - Found CCSS.txt (text/plain) in CBT.V508.FILE364.PDS, moved to PDS/CCSS
+2025-04-15 20:40:15.627713 - Found CCSSLINK.jcl (text/plain) in CBT.V508.FILE364.PDS, moved to PDS/CCSSLINK
+2025-04-15 20:40:15.627999 - Found CCSSTEST.jcl (text/plain) in CBT.V508.FILE364.PDS, moved to PDS/CCSSTEST
+2025-04-15 20:40:15.628334 - Found DOC.txt (text/plain) in CBT.V508.FILE364.PDS, moved to PDS/DOC
+2025-04-15 20:40:15.628625 - Found IEFSSNXX.txt (text/plain) in CBT.V508.FILE364.PDS, moved to PDS/IEFSSNXX
+2025-04-15 20:40:15.628961 - Found LOADMODS.xmi (application/xmit) in CBT.V508.FILE364.PDS, moved to PDS/LOADMODS.xmi
+2025-04-15 20:40:15.636813 - Received @TSSY59.CCSS.LIB from LOADMODS.xmi 
+2025-04-15 20:40:15.637374 - Found CCSS.bin (application/octet-stream) in @TSSY59.CCSS.LIB, moved to LOADMODS/CCSS
+2025-04-15 20:40:15.637507 - Found alias CCSSINIT to MTSSA00 in @TSSY59.CCSS.LIB, moved to PDS/CCSSINIT
+2025-04-15 20:40:15.637712 - Found MTSS.bin (application/octet-stream) in @TSSY59.CCSS.LIB, moved to LOADMODS/MTSS
+2025-04-15 20:40:15.637879 - Found MTSSA00.bin (application/octet-stream) in @TSSY59.CCSS.LIB, moved to LOADMODS/MTSSA00
+2025-04-15 20:40:15.638615 - Found MTSS.txt (text/plain) in CBT.V508.FILE364.PDS, moved to PDS/MTSS
+2025-04-15 20:40:15.638862 - Found MTSSA00.txt (text/plain) in CBT.V508.FILE364.PDS, moved to PDS/MTSSA00
